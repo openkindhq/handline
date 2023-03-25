@@ -1,0 +1,26 @@
+{
+  "name": "api-router",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./dist/index.js",
+  "source": "./src/index.ts",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist/**"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist",
+    "dev": "tsc -w",
+    "lint": "eslint \"src/**/*.ts*\""
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "eslint": "^7.32.0",
+    "tsconfig": "workspace:*",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "javascript-time-ago": "^2.5.9"
+  }
+}

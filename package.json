@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "clean": "turbo run clean",
+    "dev": "dotenv -- turbo run dev --no-cache  --continue --no-daemon",
+    "format": "prettier --write \"**/*.ts\"",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "dotenv-cli": "latest",
+    "prettier": "^2.7.1",
+    "turbo": "latest"
+  },
+  "packageManager": "pnpm@7.15.0",
+  "dependencies": {
+    "@trpc/server": "^10.18.0",
+    "@types/express": "^4.17.14",
+    "@types/express-serve-static-core": "^4.17.33",
+    "@types/qs": "^6.9.7",
+    "express": "^4.18.2"
+  }
+}
