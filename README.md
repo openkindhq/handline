@@ -1,7 +1,7 @@
 ***
 
 <h1 align="center">
-<code>⛑️ HandLine</code>
+<code>⛑️ Handline</code>
 </h1>
 <p align="center">
 A multi-platform humanitarian aid bot

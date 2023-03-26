@@ -1,8 +1,12 @@
-import { helpRouter } from "./commands/help";
+import { helpRouter } from "./routes/help";
 import { router } from "./trpc";
 
-export const appRouter = router({
+const commandRouter = router({
   help: helpRouter,
+});
+
+export const appRouter = router({
+  commands: commandRouter,
 });
 
 export type AppRouter = typeof appRouter;

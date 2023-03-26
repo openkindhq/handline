@@ -1,7 +1,7 @@
 import { initTRPC, inferAsyncReturnType } from "@trpc/server";
 import * as trpcExpress from "@trpc/server/adapters/express";
 
-let now = new Date();
+const now = new Date();
 
 export const createContext = ({
   req,
