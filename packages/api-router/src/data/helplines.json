@@ -1,0 +1,6813 @@
+[
+    {
+        "region": "Algeria",
+        "title": "Police",
+        "number": "1548",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Algeria",
+        "title": "Ambulance",
+        "number": "14",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Algeria",
+        "title": "Fire",
+        "number": "14",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Angola",
+        "title": "Police",
+        "number": "113",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Angola",
+        "title": "Ambulance",
+        "number": "112/116",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Angola",
+        "title": "Fire",
+        "number": "115",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Ascension Island",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Ascension Island",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Ascension Island",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Benin",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Benin",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Benin",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Burundi",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Burundi",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Burundi",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Botswana",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Botswana",
+        "title": "Ambulance",
+        "number": "997",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Botswana",
+        "title": "Fire",
+        "number": "998",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Burkina Faso",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Burkina Faso",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Burkina Faso",
+        "title": "Fire",
+        "number": "18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cameroon",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cameroon",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cameroon",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cape Verde",
+        "title": "Police",
+        "number": "132",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cape Verde",
+        "title": "Ambulance",
+        "number": "130",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cape Verde",
+        "title": "Fire",
+        "number": "131",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Central African Republic",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Central African Republic",
+        "title": "Ambulance",
+        "number": "1220",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Central African Republic",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Chad",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Chad",
+        "title": "Ambulance",
+        "number": "2251-4242",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Chad",
+        "title": "Fire",
+        "number": "18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Comoros",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Comoros",
+        "title": "Ambulance",
+        "number": "772-03-73",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Comoros",
+        "title": "Fire",
+        "number": "18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Republic of Congo",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Republic of Congo",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Democratic Republic of Congo",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Democratic Republic of Congo",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Djibouti",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Djibouti",
+        "title": "Ambulance",
+        "number": "19",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Djibouti",
+        "title": "Fire",
+        "number": "18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Egypt",
+        "title": "Police",
+        "number": "112 or 122",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Egypt",
+        "title": "Ambulance",
+        "number": "123",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Egypt",
+        "title": "Fire",
+        "number": "180",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Equatorial Guinea",
+        "title": "Police",
+        "number": "114",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Equatorial Guinea",
+        "title": "Ambulance",
+        "number": "115",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Equatorial Guinea",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Eritrea",
+        "title": "Police",
+        "number": "113",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Eritrea",
+        "title": "Ambulance",
+        "number": "114",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Eritrea",
+        "title": "Fire",
+        "number": "116",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Eswatini",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Eswatini",
+        "title": "Ambulance",
+        "number": "977",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Eswatini",
+        "title": "Fire",
+        "number": "933",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Ethiopia",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Ethiopia",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Ethiopia",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Gabon",
+        "title": "Police",
+        "number": "1730",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Gabon",
+        "title": "Ambulance",
+        "number": "1300",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Gabon",
+        "title": "Fire",
+        "number": "18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Gambia",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Gambia",
+        "title": "Ambulance",
+        "number": "116",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Gambia",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Ghana",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Ghana",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Ghana",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Guinea",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Guinea",
+        "title": "Ambulance",
+        "number": "18",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Guinea",
+        "title": "Fire",
+        "number": "442-020",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Guinea-Bissau",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Guinea-Bissau",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Guinea-Bissau",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Ivory Coast",
+        "title": "Police",
+        "number": "110 or 111 or 170",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Ivory Coast",
+        "title": "Ambulance",
+        "number": "185",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Ivory Coast",
+        "title": "Fire",
+        "number": "180",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Liberia",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Liberia",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Liberia",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Kenya",
+        "title": "Police",
+        "number": "112 or 999 or 911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Kenya",
+        "title": "Ambulance",
+        "number": "112 or 999 or 911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Kenya",
+        "title": "Fire",
+        "number": "112 or 999 or 911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Libya",
+        "title": "Police",
+        "number": "1515",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Libya",
+        "title": "Ambulance",
+        "number": "1515",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Libya",
+        "title": "Fire",
+        "number": "1515",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Lesotho",
+        "title": "Police",
+        "number": "123",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Lesotho",
+        "title": "Ambulance",
+        "number": "121",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Lesotho",
+        "title": "Fire",
+        "number": "122",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Madagascar",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Madagascar",
+        "title": "Ambulance",
+        "number": "124",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Madagascar",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Malawi",
+        "title": "Police",
+        "number": "997",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Malawi",
+        "title": "Ambulance",
+        "number": "998",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Malawi",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Mali",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Mali",
+        "title": "Ambulance",
+        "number": "15",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Mali",
+        "title": "Fire",
+        "number": "18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Mauritius",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Mauritius",
+        "title": "Ambulance",
+        "number": "114",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Mauritius",
+        "title": "Fire",
+        "number": "115",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Mauritania",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Mauritania",
+        "title": "Ambulance",
+        "number": "101",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Mauritania",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Mayotte",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Mayotte",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Mayotte",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Morocco",
+        "title": "Police",
+        "number": "19",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Morocco",
+        "title": "Ambulance",
+        "number": "15",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Morocco",
+        "title": "Fire",
+        "number": "15",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Mozambique",
+        "title": "Police",
+        "number": "119",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Mozambique",
+        "title": "Ambulance",
+        "number": "117",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Mozambique",
+        "title": "Fire",
+        "number": "198",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Namibia",
+        "title": "Police",
+        "number": "10 111",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Nigeria",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Nigeria",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Nigeria",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Niger",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Niger",
+        "title": "Ambulance",
+        "number": "15",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Niger",
+        "title": "Fire",
+        "number": "18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "R\u00ef\u00bf\u00bdunion",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "R\u00ef\u00bf\u00bdunion",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "R\u00ef\u00bf\u00bdunion",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Rwanda",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Rwanda",
+        "title": "Ambulance",
+        "number": "912",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Rwanda",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Saint Helena",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Saint Helena",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Saint Helena",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Sao Tome and Principe",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Sao Tome and Principe",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Sao Tome and Principe",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Senegal",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Senegal",
+        "title": "Ambulance",
+        "number": "18",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Senegal",
+        "title": "Fire",
+        "number": "1515",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Seychelles",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Seychelles",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Seychelles",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Sierra Leone",
+        "title": "Police",
+        "number": "019",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Sierra Leone",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Sierra Leone",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Somalia",
+        "title": "Police",
+        "number": "888",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Somalia",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Somalia",
+        "title": "Fire",
+        "number": "555",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "South Africa",
+        "title": "Police",
+        "number": "10 111",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "South Africa",
+        "title": "Ambulance",
+        "number": "10 177",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "South Africa",
+        "title": "Fire",
+        "number": "10 177",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Sudan",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Sudan",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Sudan",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "South Sudan",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "South Sudan",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "South Sudan",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Tanzania",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Tanzania",
+        "title": "Ambulance",
+        "number": "114",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Tanzania",
+        "title": "Fire",
+        "number": "115",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Togo",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Togo",
+        "title": "Ambulance",
+        "number": "8200",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Togo",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Tristan da Cunha",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Tristan da Cunha",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Tristan da Cunha",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Tunisia",
+        "title": "Police",
+        "number": "197",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Tunisia",
+        "title": "Ambulance",
+        "number": "190",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Tunisia",
+        "title": "Fire",
+        "number": "198",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Uganda",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Uganda",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Uganda",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Western Sahara",
+        "title": "Police",
+        "number": "150",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Western Sahara",
+        "title": "Ambulance",
+        "number": "150",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Western Sahara",
+        "title": "Fire",
+        "number": "150",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Zambia",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Zambia",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Zambia",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Zimbabwe",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Zimbabwe",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Zimbabwe",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Antarctica",
+        "title": "Police",
+        "number": "McMurdo Station: 911 (fire and medical emergency dispatch)",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Antarctica",
+        "title": "Ambulance",
+        "number": "McMurdo Station: 911 (fire and medical emergency dispatch)",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Antarctica",
+        "title": "Fire",
+        "number": "McMurdo Station: 911 (fire and medical emergency dispatch)",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Afghanistan",
+        "title": "Police",
+        "number": "119",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Afghanistan",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Afghanistan",
+        "title": "Fire",
+        "number": "119",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Bahrain",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Bahrain",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Bahrain",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Bangladesh",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Bangladesh",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Bangladesh",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Bhutan",
+        "title": "Police",
+        "number": "113",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Bhutan",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Bhutan",
+        "title": "Fire",
+        "number": "110",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "British Indian Ocean Territory",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "British Indian Ocean Territory",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "British Indian Ocean Territory",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Brunei",
+        "title": "Police",
+        "number": "993",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Brunei",
+        "title": "Ambulance",
+        "number": "991",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Brunei",
+        "title": "Fire",
+        "number": "995",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Myanmar",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Myanmar",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Myanmar",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cambodia",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cambodia",
+        "title": "Ambulance",
+        "number": "119",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cambodia",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "People's Republic of China",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "People's Republic of China",
+        "title": "Ambulance",
+        "number": "120",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "People's Republic of China",
+        "title": "Fire",
+        "number": "119",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Christmas Island",
+        "title": "Police",
+        "number": "000",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Christmas Island",
+        "title": "Ambulance",
+        "number": "000",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Christmas Island",
+        "title": "Fire",
+        "number": "000",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cocos Islands",
+        "title": "Police",
+        "number": "000",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cocos Islands",
+        "title": "Ambulance",
+        "number": "000",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cocos Islands",
+        "title": "Fire",
+        "number": "000",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "East Timor",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "East Timor",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "East Timor",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Hong Kong",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Hong Kong",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Hong Kong",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "India",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "India",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "India",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Indonesia",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Indonesia",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Indonesia",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Iran",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Iran",
+        "title": "Ambulance",
+        "number": "115",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Iran",
+        "title": "Fire",
+        "number": "125",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Iraq",
+        "title": "Police",
+        "number": "112 or 911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Iraq",
+        "title": "Ambulance",
+        "number": "112 or 911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Iraq",
+        "title": "Fire",
+        "number": "112 or 911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Israel",
+        "title": "Police",
+        "number": "100",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Israel",
+        "title": "Ambulance",
+        "number": "101",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Israel",
+        "title": "Fire",
+        "number": "102",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Japan",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Japan",
+        "title": "Ambulance",
+        "number": "119",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Japan",
+        "title": "Fire",
+        "number": "119",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Jordan",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Jordan",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Jordan",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Kazakhstan",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Kazakhstan",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Kazakhstan",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Kyrgyzstan",
+        "title": "Police",
+        "number": "102",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Kyrgyzstan",
+        "title": "Ambulance",
+        "number": "103",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Kyrgyzstan",
+        "title": "Fire",
+        "number": "101",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Democratic People's Republic of Korea",
+        "title": "Fire",
+        "number": "8119",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Republic of Korea",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Republic of Korea",
+        "title": "Ambulance",
+        "number": "119",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Republic of Korea",
+        "title": "Fire",
+        "number": "119",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Kuwait",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Kuwait",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Kuwait",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Laos",
+        "title": "Police",
+        "number": "191",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Laos",
+        "title": "Ambulance",
+        "number": "195",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Laos",
+        "title": "Fire",
+        "number": "190",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Lebanon",
+        "title": "Police",
+        "number": "999 or 112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Lebanon",
+        "title": "Ambulance",
+        "number": "140",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Lebanon",
+        "title": "Fire",
+        "number": "175",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Macau",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Macau",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Macau",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Maldives",
+        "title": "Police",
+        "number": "119",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Maldives",
+        "title": "Ambulance",
+        "number": "102",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Maldives",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Malaysia",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Malaysia",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Malaysia",
+        "title": "Fire",
+        "number": "994",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Mongolia",
+        "title": "Police",
+        "number": "105",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Mongolia",
+        "title": "Ambulance",
+        "number": "105",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Mongolia",
+        "title": "Fire",
+        "number": "105",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Nepal",
+        "title": "Police",
+        "number": "100",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Nepal",
+        "title": "Ambulance",
+        "number": "102",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Nepal",
+        "title": "Fire",
+        "number": "101",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Oman",
+        "title": "Police",
+        "number": "9999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Oman",
+        "title": "Ambulance",
+        "number": "9999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Oman",
+        "title": "Fire",
+        "number": "9999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Pakistan",
+        "title": "Police",
+        "number": "15",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Pakistan",
+        "title": "Ambulance",
+        "number": "115 and 1122",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Pakistan",
+        "title": "Fire",
+        "number": "16",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Philippines",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Philippines",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Philippines",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Qatar",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Qatar",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Qatar",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Saudi Arabia",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Saudi Arabia",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Saudi Arabia",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Singapore",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Singapore",
+        "title": "Ambulance",
+        "number": "995",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Singapore",
+        "title": "Fire",
+        "number": "995",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Sri Lanka",
+        "title": "Police",
+        "number": "119",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Sri Lanka",
+        "title": "Ambulance",
+        "number": "110",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Sri Lanka",
+        "title": "Fire",
+        "number": "110",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Syria",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Syria",
+        "title": "Ambulance",
+        "number": "110",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Syria",
+        "title": "Fire",
+        "number": "113",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Republic of China (Taiwan)",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Republic of China (Taiwan)",
+        "title": "Ambulance",
+        "number": "119",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Republic of China (Taiwan)",
+        "title": "Fire",
+        "number": "119",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Tajikistan",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Tajikistan",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Tajikistan",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Thailand",
+        "title": "Police",
+        "number": "191 or 911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Thailand",
+        "title": "Ambulance",
+        "number": "1669",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Thailand",
+        "title": "Fire",
+        "number": "199",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Turkmenistan",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Turkmenistan",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Turkmenistan",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "United Arab Emirates",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "United Arab Emirates",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "United Arab Emirates",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Uzbekistan",
+        "title": "Police",
+        "number": "102",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Uzbekistan",
+        "title": "Ambulance",
+        "number": "101",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Uzbekistan",
+        "title": "Fire",
+        "number": "103",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Vietnam",
+        "title": "Police",
+        "number": "113",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Vietnam",
+        "title": "Ambulance",
+        "number": "115",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Vietnam",
+        "title": "Fire",
+        "number": "114",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Yemen",
+        "title": "Police",
+        "number": "194",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Yemen",
+        "title": "Ambulance",
+        "number": "191",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Yemen",
+        "title": "Fire",
+        "number": "191",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Akrotiri and Dhekelia",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Akrotiri and Dhekelia",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Akrotiri and Dhekelia",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "\u00ef\u00bf\u00bdland Islands",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "\u00ef\u00bf\u00bdland Islands",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "\u00ef\u00bf\u00bdland Islands",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Albania",
+        "title": "Police",
+        "number": "129",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Albania",
+        "title": "Ambulance",
+        "number": "127",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Albania",
+        "title": "Fire",
+        "number": "128",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Andorra",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Andorra",
+        "title": "Ambulance",
+        "number": "116",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Andorra",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Armenia",
+        "title": "Police",
+        "number": "112 or 911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Armenia",
+        "title": "Ambulance",
+        "number": "112 or 911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Armenia",
+        "title": "Fire",
+        "number": "112 or 911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Austria",
+        "title": "Police",
+        "number": "112 or 133",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Austria",
+        "title": "Ambulance",
+        "number": "144",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Austria",
+        "title": "Fire",
+        "number": "122",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Azerbaijan",
+        "title": "Police",
+        "number": "102",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Azerbaijan",
+        "title": "Ambulance",
+        "number": "103",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Azerbaijan",
+        "title": "Fire",
+        "number": "101",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Belarus",
+        "title": "Police",
+        "number": "102",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Belarus",
+        "title": "Ambulance",
+        "number": "103",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Belarus",
+        "title": "Fire",
+        "number": "101",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Belgium",
+        "title": "Police",
+        "number": "101 or 112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Belgium",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Belgium",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Bosnia and Herzegovina",
+        "title": "Police",
+        "number": "122",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Bosnia and Herzegovina",
+        "title": "Ambulance",
+        "number": "124",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Bosnia and Herzegovina",
+        "title": "Fire",
+        "number": "123",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Bulgaria",
+        "title": "Police",
+        "number": "112 or 166",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Bulgaria",
+        "title": "Ambulance",
+        "number": "112 or 150",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Bulgaria",
+        "title": "Fire",
+        "number": "112 or 160",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Croatia",
+        "title": "Police",
+        "number": "112 or 192",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Croatia",
+        "title": "Ambulance",
+        "number": "112 or 194",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Croatia",
+        "title": "Fire",
+        "number": "112 or 193",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cyprus",
+        "title": "Police",
+        "number": "112 or 199",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cyprus",
+        "title": "Ambulance",
+        "number": "112 or 199",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cyprus",
+        "title": "Fire",
+        "number": "112 or 199",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Czech Republic",
+        "title": "Police",
+        "number": "112 or 158",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Czech Republic",
+        "title": "Ambulance",
+        "number": "112 or 155",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Czech Republic",
+        "title": "Fire",
+        "number": "112 or 150",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Denmark",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Denmark",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Denmark",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Estonia",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Estonia",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Estonia",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Faroe Islands",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Faroe Islands",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Faroe Islands",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Finland",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Finland",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Finland",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "France",
+        "title": "Police",
+        "number": "112 or 17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "France",
+        "title": "Ambulance",
+        "number": "112 or 15",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "France",
+        "title": "Fire",
+        "number": "112 or 18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Georgia",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Georgia",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Georgia",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Germany",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Germany",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Germany",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Gibraltar",
+        "title": "Police",
+        "number": "199 or 112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Gibraltar",
+        "title": "Ambulance",
+        "number": "190 or 112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Gibraltar",
+        "title": "Fire",
+        "number": "190 or 112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Greece",
+        "title": "Police",
+        "number": "100",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Greece",
+        "title": "Ambulance",
+        "number": "166",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Greece",
+        "title": "Fire",
+        "number": "199",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Greenland",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Greenland",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Greenland",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Guernsey",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Guernsey",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Guernsey",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Hungary",
+        "title": "Police",
+        "number": "112 or 107",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Hungary",
+        "title": "Ambulance",
+        "number": "112 or 104",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Hungary",
+        "title": "Fire",
+        "number": "112 or 105",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Iceland",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Iceland",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Iceland",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Ireland",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Ireland",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Ireland",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Isle of Man",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Isle of Man",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Isle of Man",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Italy",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Italy",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Italy",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Jersey",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Jersey",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Jersey",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Kosovo",
+        "title": "Police",
+        "number": "192",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Kosovo",
+        "title": "Ambulance",
+        "number": "194",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Kosovo",
+        "title": "Fire",
+        "number": "193",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Latvia",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Latvia",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Latvia",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Lithuania",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Lithuania",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Lithuania",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Liechtenstein",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Liechtenstein",
+        "title": "Ambulance",
+        "number": "144",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Liechtenstein",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Luxembourg",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Luxembourg",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Luxembourg",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Malta",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Malta",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Malta",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Moldova",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Moldova",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Moldova",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Monaco",
+        "title": "Police",
+        "number": "17",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Monaco",
+        "title": "Ambulance",
+        "number": "112 or 15",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Monaco",
+        "title": "Fire",
+        "number": "112 or 18",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Montenegro",
+        "title": "Police",
+        "number": "122",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Montenegro",
+        "title": "Ambulance",
+        "number": "124",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Montenegro",
+        "title": "Fire",
+        "number": "123",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Netherlands",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Netherlands",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Netherlands",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "North Macedonia",
+        "title": "Police",
+        "number": "192 or 112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "North Macedonia",
+        "title": "Ambulance",
+        "number": "194 or 112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "North Macedonia",
+        "title": "Fire",
+        "number": "193 or 112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Northern Cyprus",
+        "title": "Police",
+        "number": "155",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Northern Cyprus",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Northern Cyprus",
+        "title": "Fire",
+        "number": "199",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Norway",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Norway",
+        "title": "Ambulance",
+        "number": "113",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Norway",
+        "title": "Fire",
+        "number": "110",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Poland",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Poland",
+        "title": "Ambulance",
+        "number": "999 or 112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Poland",
+        "title": "Fire",
+        "number": "998 or 112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Portugal",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Portugal",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Portugal",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Romania",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Romania",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Romania",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Russia",
+        "title": "Police",
+        "number": "102 or 112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Russia",
+        "title": "Ambulance",
+        "number": "103 or 112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Russia",
+        "title": "Fire",
+        "number": "101 or 112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "San Marino",
+        "title": "Police",
+        "number": "113",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "San Marino",
+        "title": "Ambulance",
+        "number": "118",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "San Marino",
+        "title": "Fire",
+        "number": "115",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Serbia",
+        "title": "Police",
+        "number": "192 or 112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Serbia",
+        "title": "Ambulance",
+        "number": "194",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Serbia",
+        "title": "Fire",
+        "number": "193",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Slovakia",
+        "title": "Police",
+        "number": "158",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Slovakia",
+        "title": "Ambulance",
+        "number": "155",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Slovakia",
+        "title": "Fire",
+        "number": "150",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Slovenia",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Slovenia",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Slovenia",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Spain",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Spain",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Spain",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Sweden",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Sweden",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Sweden",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Switzerland",
+        "title": "Police",
+        "number": "117",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Switzerland",
+        "title": "Ambulance",
+        "number": "144",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Switzerland",
+        "title": "Fire",
+        "number": "118",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Turkey",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Turkey",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Turkey",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Ukraine",
+        "title": "Police",
+        "number": "102",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Ukraine",
+        "title": "Ambulance",
+        "number": "103",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Ukraine",
+        "title": "Fire",
+        "number": "101",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "United Kingdom",
+        "title": "Police",
+        "number": "999 or 112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "United Kingdom",
+        "title": "Ambulance",
+        "number": "999 or 112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "United Kingdom",
+        "title": "Fire",
+        "number": "999 or 112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Vatican City",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Vatican City",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Vatican City",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "American Samoa",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "American Samoa",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "American Samoa",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Australia",
+        "title": "Police",
+        "number": "000",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Australia",
+        "title": "Ambulance",
+        "number": "000",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Australia",
+        "title": "Fire",
+        "number": "000",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cook Islands",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cook Islands",
+        "title": "Ambulance",
+        "number": "998",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cook Islands",
+        "title": "Fire",
+        "number": "996",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Fiji",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Fiji",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Fiji",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "French Polynesia",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "French Polynesia",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "French Polynesia",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Guam",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Guam",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Guam",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Kiribati",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Kiribati",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Kiribati",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Marshall Islands",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Marshall Islands",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Marshall Islands",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Micronesia",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Micronesia",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Micronesia",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Nauru",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Nauru",
+        "title": "Ambulance",
+        "number": "111",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Nauru",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "New Caledonia",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "New Caledonia",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "New Caledonia",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "New Zealand",
+        "title": "Police",
+        "number": "111",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "New Zealand",
+        "title": "Ambulance",
+        "number": "111",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "New Zealand",
+        "title": "Fire",
+        "number": "111",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Palau",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Palau",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Palau",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Papua New Guinea",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Papua New Guinea",
+        "title": "Ambulance",
+        "number": "111",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Papua New Guinea",
+        "title": "Fire",
+        "number": "110",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Samoa",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Samoa",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Samoa",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Solomon Islands",
+        "title": "Police",
+        "number": "911 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Solomon Islands",
+        "title": "Ambulance",
+        "number": "911 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Solomon Islands",
+        "title": "Fire",
+        "number": "911 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Tonga",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Tonga",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Tonga",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Tuvalu",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Tuvalu",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Tuvalu",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Vanuatu",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Vanuatu",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Vanuatu",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Belize",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Belize",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Belize",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Clipperton Island",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Clipperton Island",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Clipperton Island",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Costa Rica",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Costa Rica",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Costa Rica",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Guatemala",
+        "title": "Police",
+        "number": "110",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Guatemala",
+        "title": "Ambulance",
+        "number": "128",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Guatemala",
+        "title": "Fire",
+        "number": "122",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "El Salvador",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "El Salvador",
+        "title": "Ambulance",
+        "number": "132",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "El Salvador",
+        "title": "Fire",
+        "number": "913",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Honduras",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Honduras",
+        "title": "Ambulance",
+        "number": "195",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Honduras",
+        "title": "Fire",
+        "number": "198",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Nicaragua",
+        "title": "Police",
+        "number": "118",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Nicaragua",
+        "title": "Ambulance",
+        "number": "128",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Nicaragua",
+        "title": "Fire",
+        "number": "115",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Panama",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Panama",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Panama",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Antigua and Barbuda",
+        "title": "Police",
+        "number": "911 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Antigua and Barbuda",
+        "title": "Ambulance",
+        "number": "911 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Antigua and Barbuda",
+        "title": "Fire",
+        "number": "911 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Anguilla",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Anguilla",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Anguilla",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Aruba",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Aruba",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Aruba",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "The Bahamas",
+        "title": "Police",
+        "number": "911 or 919",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "The Bahamas",
+        "title": "Ambulance",
+        "number": "911 or 919",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "The Bahamas",
+        "title": "Fire",
+        "number": "911 or 919",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "British Virgin Islands",
+        "title": "Police",
+        "number": "911 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "British Virgin Islands",
+        "title": "Ambulance",
+        "number": "911 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "British Virgin Islands",
+        "title": "Fire",
+        "number": "911 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Caribbean Netherlands",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Caribbean Netherlands",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Caribbean Netherlands",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cayman Islands",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cayman Islands",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cayman Islands",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Cuba",
+        "title": "Police",
+        "number": "106",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Cuba",
+        "title": "Ambulance",
+        "number": "104",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Cuba",
+        "title": "Fire",
+        "number": "105",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Curacao",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Curacao",
+        "title": "Ambulance",
+        "number": "912",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Curacao",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Dominica",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Dominica",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Dominica",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Grenada",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Grenada",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Grenada",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Guadeloupe",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Guadeloupe",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Guadeloupe",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Martinique",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Martinique",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Martinique",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Montserrat",
+        "title": "Police",
+        "number": "911 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Montserrat",
+        "title": "Ambulance",
+        "number": "911 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Montserrat",
+        "title": "Fire",
+        "number": "911 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Saint Kitts and Nevis",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Saint Kitts and Nevis",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Saint Kitts and Nevis",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Saint Lucia",
+        "title": "Police",
+        "number": "911 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Saint Lucia",
+        "title": "Ambulance",
+        "number": "911 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Saint Lucia",
+        "title": "Fire",
+        "number": "911 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Saint Vincent and the Grenadines",
+        "title": "Police",
+        "number": "999 or 911 or 112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Saint Vincent and the Grenadines",
+        "title": "Ambulance",
+        "number": "999 or 911 or 112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Saint Vincent and the Grenadines",
+        "title": "Fire",
+        "number": "999 or 911 or 112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Dominican Republic",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Dominican Republic",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Dominican Republic",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Haiti",
+        "title": "Police",
+        "number": "114",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Haiti",
+        "title": "Ambulance",
+        "number": "116",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Haiti",
+        "title": "Fire",
+        "number": "115",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Puerto Rico",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Puerto Rico",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Puerto Rico",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Trinidad and Tobago",
+        "title": "Police",
+        "number": "999 or 911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Trinidad and Tobago",
+        "title": "Ambulance",
+        "number": "811",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Trinidad and Tobago",
+        "title": "Fire",
+        "number": "990",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Jamaica",
+        "title": "Police",
+        "number": "119",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Jamaica",
+        "title": "Ambulance",
+        "number": "110",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Jamaica",
+        "title": "Fire",
+        "number": "110",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Bermuda",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Bermuda",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Bermuda",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Canada",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Canada",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Canada",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Mexico",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Mexico",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Mexico",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Saint Pierre and Miquelon",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Saint Pierre and Miquelon",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Saint Pierre and Miquelon",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "United States of America",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "United States of America",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "United States of America",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Argentina",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Argentina",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Argentina",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Bolivia",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Bolivia",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Bolivia",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Brazil",
+        "title": "Police",
+        "number": "190",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Brazil",
+        "title": "Ambulance",
+        "number": "192",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Brazil",
+        "title": "Fire",
+        "number": "193",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Chile",
+        "title": "Police",
+        "number": "133",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Chile",
+        "title": "Ambulance",
+        "number": "131",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Chile",
+        "title": "Fire",
+        "number": "132",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Colombia",
+        "title": "Police",
+        "number": "123",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Colombia",
+        "title": "Ambulance",
+        "number": "123",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Colombia",
+        "title": "Fire",
+        "number": "123",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Ecuador",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Ecuador",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Ecuador",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Falkland Islands",
+        "title": "Police",
+        "number": "112 or 999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Falkland Islands",
+        "title": "Ambulance",
+        "number": "112 or 999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Falkland Islands",
+        "title": "Fire",
+        "number": "112 or 999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "French Guiana",
+        "title": "Police",
+        "number": "112",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "French Guiana",
+        "title": "Ambulance",
+        "number": "112",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "French Guiana",
+        "title": "Fire",
+        "number": "112",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Guyana",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Guyana",
+        "title": "Ambulance",
+        "number": "913",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Guyana",
+        "title": "Fire",
+        "number": "912",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Paraguay",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Paraguay",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Paraguay",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Peru",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Peru",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Peru",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "South Georgia and the South Sandwich Islands",
+        "title": "Police",
+        "number": "999",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "South Georgia and the South Sandwich Islands",
+        "title": "Ambulance",
+        "number": "999",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "South Georgia and the South Sandwich Islands",
+        "title": "Fire",
+        "number": "999",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Suriname",
+        "title": "Police",
+        "number": "115",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Suriname",
+        "title": "Ambulance",
+        "number": "115",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Suriname",
+        "title": "Fire",
+        "number": "115",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Uruguay",
+        "title": "Police",
+        "number": "911",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Uruguay",
+        "title": "Ambulance",
+        "number": "911",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Uruguay",
+        "title": "Fire",
+        "number": "911",
+        "keywords": [
+            "fire"
+        ]
+    },
+    {
+        "region": "Venezuela",
+        "title": "Police",
+        "number": "911 and 171",
+        "keywords": [
+            "police",
+            "law enforcement",
+            "cops"
+        ]
+    },
+    {
+        "region": "Venezuela",
+        "title": "Ambulance",
+        "number": "911 and 171",
+        "keywords": [
+            "ambulance",
+            "medical",
+            "doctor",
+            "hospital"
+        ]
+    },
+    {
+        "region": "Venezuela",
+        "title": "Fire",
+        "number": "911 and 171",
+        "keywords": [
+            "fire"
+        ]
+    }
+]

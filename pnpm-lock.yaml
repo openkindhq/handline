@@ -10,6 +10,7 @@ importers:
       '@types/qs': ^6.9.7
       dotenv-cli: latest
       express: ^4.18.2
+      fuse.js: ^6.6.2
       prettier: ^2.7.1
       turbo: latest
     dependencies:
@@ -18,6 +19,7 @@ importers:
       '@types/express-serve-static-core': 4.17.33
       '@types/qs': 6.9.7
       express: 4.18.2
+      fuse.js: 6.6.2
     devDependencies:
       dotenv-cli: 7.1.0
       prettier: 2.8.0
@@ -78,6 +80,9 @@ importers:
       eslint-config-custom: workspace:*
       tsconfig: workspace:*
       typescript: ^4.8.3
+      zod: ^3.21.4
+    dependencies:
+      zod: 3.21.4
     devDependencies:
       '@types/node': 18.11.9
       eslint: 7.32.0
@@ -1410,6 +1415,11 @@ packages:
     resolution: {integrity: sha512-dsKNQNdj6xA3T+QlADDA7mOSlX0qiMINjn0cgr+eGHGsbSHzTabcIogz2+p/iqP1Xs6EP/sS2SbqH+brGTbq0g==}
     dev: true
 
+  /fuse.js/6.6.2:
+    resolution: {integrity: sha512-cJaJkxCCxC8qIIcPBF9yGxY0W/tVZS3uEISDxhYIdtk8OL93pe+6Zj7LjCqVV4dzbqcriOZ+kQ/NE4RXZHsIGA==}
+    engines: {node: '>=10'}
+    dev: false
+
   /get-intrinsic/1.1.3:
     resolution: {integrity: sha512-QJVz1Tj7MS099PevUG5jvnt9tSkXN8K14dxQlikJuPt4uD9hHAHjLyLBiLR5zELelBdD9QNRAXZzsJx0WaDL9A==}
     dependencies:
@@ -2477,3 +2487,7 @@ packages:
   /yocto-queue/0.1.0:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
+
+  /zod/3.21.4:
+    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
+    dev: false

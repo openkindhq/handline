@@ -1,7 +1,12 @@
 import { initTRPC, inferAsyncReturnType } from "@trpc/server";
 import * as trpcExpress from "@trpc/server/adapters/express";
+import helplines from "./data/helplines.json";
+import Fuse from "fuse.js";
 
 const now = new Date();
+const fuse = new Fuse(helplines, {
+  keys: ["region", "keywords", "number"],
+});
 
 export const createContext = ({
   req,
@@ -11,6 +16,7 @@ export const createContext = ({
     req,
     res,
     startedAt: now,
+    fuse,
   };
 };
 
